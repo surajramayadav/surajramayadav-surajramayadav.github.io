@@ -21,15 +21,15 @@ function App() {
     <BrowserRouter>
     <NavBar/>
     <Switch>
-        <Route exact path="/website/" component={Home}/>
+        <Route exact path="/website" component={Home}/>
         
-        <Route exact path="/website//service" component={Service}/>
+        <Route exact path="/website/service" component={Service}/>
         
-        <Route exact path="/website//about" component={About}/>
+        <Route exact path="/website/about" component={About}/>
          
-        <Route exact path="/website//contact" component={Contact}/>
+        <Route exact path="/website/contact" component={Contact}/>
 
-      <Redirect exact path="/website/" component={Home}/>
+      <Redirect to="/website"/>
 
     </Switch>
     </BrowserRouter>

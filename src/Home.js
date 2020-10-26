@@ -21,24 +21,7 @@ function Home() {
                                 Hi, I am <span style={{ color: '#488AC7' }}>Suraj Rama Yadav </span>|<span style={{ color: '#808080' }}>  Studying </span>at Ves Institute of Technology 
                                 <span style={{ color: '#808080' }}>  Full Stack App Developer </span> [ React] [Spring Mvc] [Laravel] [Python] | <span style={{ color: '#808080' }}>  Moblile App Developer </span> [Java] [React Native] [Flutter]
     </p>
-                            <p style={{ marginTop: 50,  }}>
-
-                                <button type="button" class="btn btn-link" style={{ borderRadius: 10, borderColor: '#E1306C' }}>
-                                    <FaInstagram
-                                        size={25} color='#E1306C' /> <span >
-                                          <a href="https://www.instagram.com/surajramayadav/"> Surajramayadav </a></span>
-                                </button> 	&nbsp;	&nbsp;
-                                <span style={{}}> 
-
-                                
-                                <button type="button" class="btn btn-link" style={{ borderRadius: 10, borderColor: 'black' }}>
-                                    <FaGithub
-                                        size={25} color='black' /> <span >
-                                          <a href="https://github.com/surajramayadav"> Surajramayadav </a></span>
-                                </button>
-                                </span>
-                              
-                            </p>
+                          
                         </p>
                         </center>
                     </div>

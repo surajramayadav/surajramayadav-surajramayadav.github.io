@@ -42,14 +42,14 @@ function About() {
                             <button type="button" class="btn btn-link" style={{ borderRadius: 10,marginTop:10, borderColor: 'black' }}>
                                 <FaInstagram
                                     size={25} color='#E1306C' /> <span >
-                               <a href="https://www.instagram.com/surajramayadav/"> Surajramayadav </a></span>
+                               <a href="https://www.instagram.com/surajramayadav/" target="_blank"> Surajramayadav </a></span>
                             </button>
                         	&nbsp;
                             <span style={{ }}>
                                 <button type="button" class="btn btn-link" style={{ borderRadius: 10,marginTop:10, borderColor: 'black' }}>
                                     <FaGithub
                                         size={25} color='black' /> <span >
-                                       <a href="https://github.com/surajramayadav"> Surajramayadav </a></span>
+                                       <a href="https://github.com/surajramayadav" target="_blank"> Surajramayadav </a></span>
                                 </button>
                             </span>
                             

@@ -17,7 +17,7 @@ function Contact() {
                 <center>
                     <br />
                     <br />
-                    <div className="card w-50" >
+                    <div className="card w-100" >
                         <div class="card-header bg-primary text-white">
                             <strong>Contact Us</strong>
                         </div>

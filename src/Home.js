@@ -12,15 +12,16 @@ function Home() {
                     </div>
                     <div class="col-sm">
                         <br />
+                        <center>
                         <p style={{ marginTop: 20 }}>
-                            <h1 style={{ fontFamily: 'sans-serif', fontSize: 50, fontWeight: 'bold', paddingLeft: 60, marginTop: 40 }}>
+                            <h1 style={{ fontFamily: 'sans-serif', fontSize: 50, fontWeight: 'bold', marginTop: 40 }}>
 
                                 Welcome to Suraj World!</h1>
-                            <p style={{ fontSize: 25, marginTop: 30, paddingLeft: 60, fontWeight: 'bold' }}>
+                            <p style={{ fontSize: 25, marginTop: 30, fontWeight: 'bold' }}>
                                 Hi, I am <span style={{ color: '#488AC7' }}>Suraj Rama Yadav </span>|<span style={{ color: '#808080' }}>  Studying </span>at Ves Institute of Technology 
                                 <span style={{ color: '#808080' }}>  Full Stack App Developer </span> [ React] [Spring Mvc] [Laravel] [Python] | <span style={{ color: '#808080' }}>  Moblile App Developer </span> [Java] [React Native] [Flutter]
     </p>
-                            <p style={{ marginTop: 50, paddingLeft: 60 }}>
+                            <p style={{ marginTop: 50,  }}>
 
                                 <button type="button" class="btn btn-link" style={{ borderRadius: 10, borderColor: '#E1306C' }}>
                                     <FaInstagram
@@ -39,6 +40,7 @@ function Home() {
                               
                             </p>
                         </p>
+                        </center>
                     </div>
 
                 </div>

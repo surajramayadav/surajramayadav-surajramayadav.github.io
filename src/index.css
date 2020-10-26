@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.menu_active{
+  font-weight: bold;
+  border-bottom: 1px solid #565387;
+}
+.card{
+  width:18rem;
+  
+}
+.avatar {
+  vertical-align: middle;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.st1{
+  color: #757575!important;font-family: Roboto,sans-serif!important;font-size: 1.25rem!important;text-align: center;width: 100%;
+}

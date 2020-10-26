@@ -8,7 +8,7 @@ function Home() {
                 <div class="row">
                     <div class="col-sm">
                         <br />
-                        <img src={process.env.PUBLIC_URL + '/home.png'}  className="img-fluid" alt="Responsive image" />
+                        <img  style ={{width:'100%',height:450,borderRadius:"10%" }} src={process.env.PUBLIC_URL + '/home.jpg'}  className="img-fluid" alt="Responsive image" />
                     </div>
                     <div class="col-sm">
                         <br />

@@ -26,7 +26,7 @@ function Home() {
                                     <FaInstagram
                                         size={25} color='#E1306C' /> <span >
                                           <a href="https://www.instagram.com/surajramayadav/"> Surajramayadav </a></span>
-                                </button> 	&nbsp;
+                                </button> 	&nbsp;	&nbsp;
                                 <span style={{}}> 
 
                                 

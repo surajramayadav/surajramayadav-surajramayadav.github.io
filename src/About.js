@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaInstagram, FaGithub,FaFacebookF } from 'react-icons/fa';
+import { FaInstagram, FaGithub,FaFacebookF,FaPhoneAlt } from 'react-icons/fa';
 function About() {
     return (
         <>
@@ -24,6 +24,12 @@ function About() {
                            <span class="badge badge-primary" ># FireBase </span>	&nbsp;
                            <span class="badge badge-primary" ># Flutter </span>	&nbsp;
                            <span class="badge badge-primary" ># Sql </span>	&nbsp;
+                           <br/><br/>
+                           <button type="button" class="btn btn-link" style={{ borderRadius: 10,marginTop:10, borderColor: 'black' }}>
+                                <FaPhoneAlt
+                                    size={20} color='black' /> <span >
+                               +91 8433564425 </span>
+                            </button>
                         </center>
                     </div>
                     <div class="col-sm-8">

@@ -19,7 +19,7 @@ function Contact() {
                     <br />
                     <div className="card w-100" >
                         <div class="card-header bg-primary text-white">
-                            <strong>Contact Us</strong>
+                            <strong>Contact Us </strong>
                         </div>
                         <div className="card-body">
 

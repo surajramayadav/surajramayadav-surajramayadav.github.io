@@ -17,13 +17,13 @@ function NavBar() {
                                 <NavLink activeClassName="menu_active" exact className="nav-link" to="/website/">Home <span class="sr-only">(current)</span></NavLink>
                             </li>
                             <li className="nav-item">
-                                <NavLink activeClassName="menu_active" className="nav-link" to="/website//service">Service</NavLink>
+                                <NavLink activeClassName="menu_active" className="nav-link" to="/website/service">Service</NavLink>
                             </li>
                             <li className="nav-item">
-                                <NavLink activeClassName="menu_active" className="nav-link" to="/website//about">About Us</NavLink>
+                                <NavLink activeClassName="menu_active" className="nav-link" to="/website/about">About Us</NavLink>
                             </li>
                             <li className="nav-item">
-                                <NavLink activeClassName="menu_active" className="nav-link" to="/website//contact">Contact Us</NavLink>
+                                <NavLink activeClassName="menu_active" className="nav-link" to="/website/contact">Contact Us</NavLink>
                             </li>
 
                         </ul>

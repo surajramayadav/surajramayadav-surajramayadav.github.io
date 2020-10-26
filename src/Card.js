@@ -7,7 +7,7 @@ function Cardlist(props) {
         <div class="card-header bg-primary text-white">
         <strong>{props.name}</strong>
             </div>
-            <img src={props.img} class="card-img-top" style={{width:"100%",height:150}} alt={props.img}/>
+            <img src={process.env.PUBLIC_URL + props.img} class="card-img-top" style={{width:"100%",height:150}} alt={props.img}/>
             <div className="card-body">
             <h5  className="card-title">{props.app}</h5>
          

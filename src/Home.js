@@ -1,4 +1,5 @@
 import React from 'react'
+
 import { FaInstagram,FaGithub } from 'react-icons/fa';
 function Home() {
     return (
@@ -7,7 +8,7 @@ function Home() {
                 <div class="row">
                     <div class="col-sm">
                         <br />
-                        <img src="home.png" className="img-fluid" alt="Responsive image" />
+                        <img src={process.env.PUBLIC_URL + '/home.png'}  className="img-fluid" alt="Responsive image" />
                     </div>
                     <div class="col-sm">
                         <br />

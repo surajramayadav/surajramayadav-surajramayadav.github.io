@@ -7,7 +7,7 @@ function About() {
                 <div class="row">
                     <div class="col-sm-4">
                         <center>
-                            <img src="suraj.jpg" style={{ marginTop: 20 }} alt="Avatar" className="avatar" />
+                            <img src={process.env.PUBLIC_URL + '/suraj.jpg'}  style={{ marginTop: 20 }} alt="Avatar" className="avatar" />
                             <p style={{fontWeight:'bold',fontSize:30}}>
                                 Software Developer
                                 

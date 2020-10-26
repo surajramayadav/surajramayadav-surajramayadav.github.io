@@ -4,25 +4,25 @@ import Cardlist from './Card';
 function Service() {
     const data=[
         {
-           img:'web.jpg',
+           img:'/web.jpg',
            name:'Web Development',
            app:'React Java Python etc ...',
            desc:'We develop customized software as per our clients need with 100% customer satisfaction and Maintenance.'
 
         },{
-            img:'android.jpg',
+            img:'/android.jpg',
             name:'Mobile App Development',
             app:'Flutter and React Native',
             desc:'We love to develop all kinds of mobile application including native & hybrid (for Andriod, iOS & Windows Phone).'
  
         },{
-            img:'desktop.jpg',
+            img:'/desktop.jpg',
             name:'MySQL Desktop App',
             app:'C++',
             desc:'We also Love to make deskop console app usng c++ with database as MySql with better security options.'
  
         },{
-            img:'Web_hosting.jpg',
+            img:'/Web_hosting.jpg',
             name:'Web Hosting',
             app:'GoDaddy, Hostinger etc...',
             desc:'We provide Linux & Windows Hosting at a very nominal price with extra awesome and advance hosting features.'
@@ -30,13 +30,13 @@ function Service() {
 
         },{
 
-            img:'web_main.jpeg',
+            img:'/web_main.jpeg',
             name:'Website Maintainance',
             app:'CMS, ADMIN PANEL etc..',
             desc:'Web Maintenance & Management service will ensure complete protection of your website through constant site-optimization.'
  
         },{
-            img:'api.png',
+            img:'/api.png',
             name:'Restful Services',
             app:'PHP, NodeJs, LARAVEL',
             desc:'We Provide json or XML data in the form of response to client so that they can analyse the data.'

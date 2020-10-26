@@ -25,11 +25,11 @@ function About() {
                            <span class="badge badge-primary" ># Flutter </span>	&nbsp;
                            <span class="badge badge-primary" ># Sql </span>	&nbsp;
                            <br/><br/>
-                           <button type="button" class="btn btn-link" style={{ borderRadius: 10,marginTop:10, borderColor: 'black' }}>
+                           <p style={{ borderRadius: 10,marginTop:10, borderColor: 'black' }}>
                                 <FaPhoneAlt
                                     size={20} color='black' /> <span >
                                +91 8433564425 </span>
-                            </button>
+                            </p>
                         </center>
                     </div>
                     <div class="col-sm-8">

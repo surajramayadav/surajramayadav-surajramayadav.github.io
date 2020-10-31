@@ -18,11 +18,11 @@ import Contact from './Contact';
 
 function App() {
   return (
-    <BrowserRouter basename={process.env.PUBLIC_URL}>
+    <BrowserRouter basename={window.location.pathname || ''}>
     <NavBar/>
     <Switch>
-        
-        <Route exact path='/' render={(props)=><Home {...props}/>} />
+        <Route exact path="/" component={Home}/>
+      
         
         <Route exact path="/service" component={Service}/>
         
